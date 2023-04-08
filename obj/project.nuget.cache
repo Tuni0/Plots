@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aA6DsumpIoh9clg0L90YhsYSWx/IQzBM0V3KSHl3bKUcMt/wQ7PbgsHBgv80kG+OAJttV9E//gDG+gNauNizAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\Graphs\\Graphs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wikto\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\wikto\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\wikto\\.nuget\\packages\\scottplot\\4.1.59\\scottplot.4.1.59.nupkg.sha512",
+    "C:\\Users\\wikto\\.nuget\\packages\\scottplot.winforms\\4.1.59\\scottplot.winforms.4.1.59.nupkg.sha512",
+    "C:\\Users\\wikto\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\wikto\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
